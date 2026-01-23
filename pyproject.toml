@@ -1,0 +1,20 @@
+[project]
+name = "kafka"
+version = "0.0.1"
+description = "termtrix test"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "aiokafka",
+    "python-dotenv",
+    "protobuf",
+    "grpcio-tools"
+]
+
+[project.optional-dependencies]
+consumer = ["aiokafka"]
+
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
